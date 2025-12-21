@@ -1,5 +1,7 @@
-## RL Course
+# <center><a style='color:red'>RL Course<a/>
+<img src='img/rl-main.jpg'>
 
+___
 <img src='img/rl-sceme.png'>
 
 ___
