@@ -15,3 +15,4 @@ ___
 |6. [Reinforce](https://github.com/NazarovMichail/RLCourse/tree/master/Theory/6.%20Reinforce%2C%20PG)| - |
 |7. [A2C, A3C](https://github.com/NazarovMichail/RLCourse/tree/master/Theory/7.%20A2C%2C%20A3C%2C%20DDPG)|[Car Racing](https://github.com/NazarovMichail/RLCourse/blob/master/Practice/3.%20A2C/A2C%20(Car%20Racing).ipynb) |
 |7. [DDPG](https://github.com/NazarovMichail/RLCourse/tree/master/Theory/7.%20A2C%2C%20A3C%2C%20DDPG)| - |
+|8. [Model based RL](https:)| [Frozen Lake](https:) |
